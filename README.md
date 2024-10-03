@@ -2,6 +2,8 @@
 
 ![](https://www.techopedia.com/wp-content/uploads/2024/06/60-Global-Credit-Card-Fraud-Statistics-in-2024.webp)
 
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?style=flat&logo=kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Introduction
 The **Credit Fraud Detector** is a machine learning project designed to accurately detect fraudulent transactions. Using various predictive models, we aim to determine whether a transaction is a normal payment or fraudulent. The dataset features are anonymized and scaled to protect privacy, but key insights can still be uncovered through analysis.
 
@@ -48,4 +50,5 @@ This project will guide you through essential steps in working with imbalanced d
 ## Conclusion
 The **Credit Fraud Detector** project demonstrates the importance of handling imbalanced datasets and choosing the right models and evaluation metrics to detect fraud effectively. We hope this project helps you understand key fraud detection techniques and encourages you to explore further into machine learning solutions for real-world problems.
 
+---
 Happy coding!
